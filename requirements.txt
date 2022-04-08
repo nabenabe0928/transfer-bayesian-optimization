@@ -1,0 +1,7 @@
+numpy
+scipy
+ipython
+jupyter
+ConfigSpace
+pyrfr
+smac
